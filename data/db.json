@@ -1,0 +1,45 @@
+{
+    "explore":[
+        {
+        "img": "https://images.unsplash.com/photo-1531846802986-4942a5c3dd08?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2l0aWVzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "location": "London",
+        "distance": "45 minutes drive"
+    },
+    {
+        "img": "https://images.unsplash.com/photo-1561488111-5d800fd56b8a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2l0aWVzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+        "location": "Liverpool",
+        "distance": "45 minutes drive"
+    },
+    {
+        "img": "https://images.unsplash.com/photo-1571951103752-53c15cad28e5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y2l0aWVzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+        "location": "York",
+        "distance": "45 minutes drive"
+    },
+    {
+        "img": "https://images.unsplash.com/photo-1618503551238-7df2c50d2236?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8Y2l0aWVzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+        "location": "Manchester",
+        "distance": "45 minutes drive"
+    },
+    {
+        "img": "https://images.unsplash.com/photo-1555397430-57791c75748a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGNpdGllc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60",
+        "location": "Hove",
+        "distance": "45 minutes drive"
+    },
+    {
+        "img": "https://images.unsplash.com/photo-1562595410-2cb999af24b5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGNpdGllc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60",
+        "location": "Birkenhead",
+        "distance": "45 minutes drive"
+    },
+    {
+        "img": "https://images.unsplash.com/photo-1508030358362-c071fa056233?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGNpdGllc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60",
+        "location": "London",
+        "distance": "45 minutes drive"
+    },
+    {
+        "img": "https://images.unsplash.com/photo-1593000666643-c7b641bbecaf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGNpdGllc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60",
+        "location": "London",
+        "distance": "45 minutes drive"
+    }
+
+    ]
+}
